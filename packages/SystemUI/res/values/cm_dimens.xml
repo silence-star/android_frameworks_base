@@ -37,6 +37,8 @@
     <!-- Padding end for weather text -->
     <dimen name="status_bar_weather_padding_end">16dp</dimen>
 
+    <dimen name="detail_exterior_padding">16dp</dimen>
+
     <!-- Network traffic monitor single-line text size -->
     <dimen name="net_traffic_single_text_size">14dp</dimen>
     <!-- Network traffic monitor multi-line text size -->
